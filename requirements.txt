@@ -1,0 +1,5 @@
+﻿streamlit
+easyocr
+edge-tts
+pillow
+numpy
