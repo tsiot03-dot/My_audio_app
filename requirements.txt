@@ -1,5 +1,7 @@
-﻿streamlit
+streamlit
 easyocr
 edge-tts
 pillow
 numpy
+opencv-python-headless
+torch
